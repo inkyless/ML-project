@@ -7,6 +7,10 @@ Dengan demikian, pengguna yang berkreativitas dalam membuat suatu film dapat men
 
 Proyek ini akan menggunakan framework Python "Flask" dalam mendeployment model Machine Learning ke suatu media.
 
+## Anggota Kelompok 
+- Viola Glinko (211111906) => Mengumpulkan dataset sampai Merging // Deploy model ke applikasi framwork Flask
+- Steven Kurniawan (211110607) => Mengembangkan Machine Learning Model dan Adjusting model sampai error terkecil
+
 ## Cara Menjalankan Aplikasi Flask 
 1. Git clone https://github.com/inkyless/ML-project
 2. Masuk ke directory flask (../flask)
